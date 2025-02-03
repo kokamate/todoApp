@@ -121,3 +121,5 @@ function getCookie(key) {
 
     return cookie ? cookie.split('=')[1] : null;
 }
+
+//valami változás
